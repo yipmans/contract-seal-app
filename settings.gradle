@@ -1,0 +1,2 @@
+rootProject.name = "contract-seal-app"
+include ':app'
